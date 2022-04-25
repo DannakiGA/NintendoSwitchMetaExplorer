@@ -1,0 +1,10 @@
+C:\Users\Dannaki\source\repos\MetaImageEditor\bin\Debug\MetaImageEditor.exe.config
+C:\Users\Dannaki\source\repos\MetaImageEditor\bin\Debug\MetaImageEditor.exe
+C:\Users\Dannaki\source\repos\MetaImageEditor\bin\Debug\MetaImageEditor.pdb
+C:\Users\Dannaki\source\repos\MetaImageEditor\obj\Debug\MetaImageEditor.csproj.AssemblyReference.cache
+C:\Users\Dannaki\source\repos\MetaImageEditor\obj\Debug\MetaImageEditor.Form1.resources
+C:\Users\Dannaki\source\repos\MetaImageEditor\obj\Debug\MetaImageEditor.Properties.Resources.resources
+C:\Users\Dannaki\source\repos\MetaImageEditor\obj\Debug\MetaImageEditor.csproj.GenerateResource.cache
+C:\Users\Dannaki\source\repos\MetaImageEditor\obj\Debug\MetaImageEditor.csproj.CoreCompileInputs.cache
+C:\Users\Dannaki\source\repos\MetaImageEditor\obj\Debug\MetaImageEditor.exe
+C:\Users\Dannaki\source\repos\MetaImageEditor\obj\Debug\MetaImageEditor.pdb
